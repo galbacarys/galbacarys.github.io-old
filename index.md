@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<div class="lead pretty-links">
-  Hi! this is just a sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
+Hello, and welcome to my blog! Inside you'll find lots(?) of great(?) info to
+help(?) you become a better(???) programmer, as well as lots of other random
+junk.
 
-  This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
-
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
-</div>
+My name is Gabe Albacarys and I'm writing this site because a recruiter told me
+once that my GitHub profile was great, and it clearly wasn't; so now I'm going
+to make it great! Or something.
