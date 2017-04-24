@@ -1,14 +1,15 @@
 ---
 layout: page
 title: About
-subtitle: I am a smart heading.
+subtitle: A coder with opinions.
 desc: About me.
 permalink: /about/
 ---
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Some intro text that is eye catching and should put you reader at ease and confident in your skills.
+<div class="lead lead-about">I spend most of my time trying to convince people
+to move into the 21st century of software development, with mixed success.
 </div>
 
 {::nomarkdown} 
@@ -17,62 +18,65 @@ permalink: /about/
 </figure>
 {:/}
 
-Neve aethere orbe hic *virginis trunco* in spreto diuque latarumque, mea? Ultima
-sulcum antris conlapsosque potiere curvat Phasias superas adpulit vertex est
-Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
-[candida](http://murmure.org/.html).
+Hello! My name is Gabe Albacarys and I'm a software engineer currently working
+at ViaSat, Inc. in San Diego, CA. My day job is as a cloud software engineer,
+where I work in our Openstack private cloud designing CI/CD tools and improving
+our testing and deployment infrastructure. In my free time, I enjoy rock
+climbing, music, and game development.
 
 ---
 
-## Quem fata quamvis
+## Are you currently searching for a new gig?
 
-Remisit terrae illud praetendat quod inplicat inter. Volvitur tum, naiades et
-sublimis conde!
+Nah, not really. ViaSat is pretty cool. And I don't really do the whole "send me
+some people you think might be interested!" thing either.
 
-Captum ligno nepotum arisque dimittere
-[maternaque](http://estumectat.net/fugae). Quae maior Typhoeus ramis huius aura
-deprendit instat hirsuta. Miserrima inque: tibi qua, ultimus a Agaue vallibus
-dictos.
+## What is your blog about?
 
-1. Perseus est
-2. O Osiris accedat
-3. Repetita usum
+I'm not really entirely sure yet. I'd like it to be a decent mix of
+psuedo-philosophical ranting, cringeworthy attempts at comedy, and bad advice
+about software engineering.
 
-Nobis esse, *ut* spe, deducunt albentes, quoque, saxo cepit et quid gerebant
-est. Magnae haec quod, iugeribus gemmata. Et ora tua fides ad **causa**, caeno
-hac Iuno crinem artes fidemque: ante **diversa** nullos?
+## Why would you want a blog without knowing what to write about?
 
-## Si leti tegit undis quam
+So, I got a call from a recruiter at an unnamed company in San Diego a couple
+days ago. They said they were extremely impressed with my GitHub profile, led me
+to make the following conclusions:
 
-Lorem markdownum caesariem aequore virtus nunc vittas, nec perosus urbem est:
-verba est eripere quater obvertit geminaverat amore. Ac freto. Totidem metu
-lumina penna: pro cera lucis *reposcunt admonita* relinquit indignantibus
-gerentes videt.
+1. This is recruiter is a liar. As of late April 2017 my GitHub profile could
+best be described as a barren wasteland of half-started projects.
 
-Et **mixtos alium** adiacet ordine, vidisse nurus: vestem. *Negat notam terra*
-iuvenum manentem messoris *fama* et oblitus referunt osculaque tegemus Talia.
-Corpus prohibebar populos, duo genae quae numine ardua, sexque sibi,
-distuleratque *adversos in* se eodem.
+2. I need to clean up my GitHub profile *big time* if I want to get myself out
+there. I should probably put my name out there more anyway, so this is a great
+wake up call to do something about it.
 
-- Poenas caput
-- Apud placato in extemplo inmemores ambit
-- Mea Cnosiaci atria nascendi sanguis inanem leonis
-- Se versis si Iasonis artis cepit et
-- Senes in idem tegmina
+3. I like blogs. I read other peoples' blogs (usually through
+[hackernews](https://news.ycombinator.com)) all the time, and it would be pretty
+neat to make myself well-known enough that people come to my blog for the same
+kind of inspiration that I go to others' for.
 
-Ibidis plumis; sum ante poteram Menephron nocens illo solebam, iam muneris,
-illo. Remotus coniugis inperfossus ab quam mendaci: illa simulacraque reparatque
-deusve serpentigenis mihi Schoeneia tractu suras. Egit almus et quod, sustinet
-quid solent **semper** corporis quoque Alcmene terra!
+## What do you currently know how to do?
 
----
+Below are the skills I'm confident enough in to attempt to get paid for:
 
-## Abit inque et palato sibila telorum at
+- Python (especially Django and AWS automation)
+- Java (In general)
+- Ansible for automation; automation in general, really
+- CI/CD in general, and Jenkins in particular
+- Scrum/Agile team management and leadership
 
-Lorem markdownum mirabatur haut, non morte, nisi et sepulcro Exigit, est, per
-illa iusserat memorabile. Pater damus multa, in lucosque carent oculis adsum
-miseris. Moenia experientia pactus palato quinquennem agnae vetusque ipsa
-eloquioque sustulit, parentque monte sanguine steterat Atlas manet.
+Below are skills I feel vaguely competent at, but I wouldn't want to be my full
+time job right now:
+- Golang
+- C/C++
+- Embedded programming
+- Linux Kernel development
+- Web development
+
+These are the things I'm learning:
+- Programming language design
+- Computer graphics
+- Bouldering!
 
 </div>
 
