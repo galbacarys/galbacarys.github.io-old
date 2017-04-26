@@ -122,7 +122,7 @@ environment and half an API, and expect people to figure out stupid workarounds
 to your tool's rough edges.
 
 Ansible's choice to use YAML is a double edged sword: YAML is an extremely
-powerful markup language, and combined with Jinja and the Ansible engine behind
+powerful structured text language, and combined with Jinja and the Ansible engine behind
 it is technically Turing complete (seriously, I checked; I once wrote an Ansible
 playbook to calculate Fibonacci numbers just to verify it was possible). And yet
 Ansible provides very little facility to do the kinds of things that programmers
