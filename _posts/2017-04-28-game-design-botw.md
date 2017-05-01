@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Game Design Deep Dive into Legend of Zelda Breath of the Wild
-subtitle: Examining the cooking and system of BotW
+subtitle: Examining the cooking system of BotW
 ---
 
 #### Note: This post contains moderate (mostly mechanical) spoilers for Legend of Zelda: Breath of the Wild, and requires at least general familiarity with the game.
