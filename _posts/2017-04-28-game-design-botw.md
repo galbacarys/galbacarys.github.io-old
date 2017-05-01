@@ -202,7 +202,7 @@ move on, ignoring it completely. On the other hand, opaque systems (or
 "black-boxes") are an amazing way to add depth to a game where it didn't
 previously exist: simply by hiding a lot of the intricacies of your mechanic,
 you allow people to develop their own mental image of how it probably works.
-This will almost always be much more interesting than what you design, and so
+This will almost always be much more interesting than what you design, so
 long as your mechanic is either
 1. opaque enough that your players generally won't figure it out, or
 2. still fun enough to continue interacting with after the optimal solution has
