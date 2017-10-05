@@ -17,7 +17,7 @@ development career as of late.
 
 That's not to say that I've cargo-culted functional programming. I can say
 absolutely that it has its warts, and there are plenty of things I would love to
-fix about it. For one, as I'm reading through the excellent [Type Theory for
+fix about it. For one, as I'm reading through the excellent [Category Theory for
 Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 by Bartosz Milewski[^1], I am slowly realizing just how incomplete functional
 programming is without a solid type system underneath it (and Clojure's optional
