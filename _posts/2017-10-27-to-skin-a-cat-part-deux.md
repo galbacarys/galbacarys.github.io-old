@@ -121,7 +121,7 @@ function routeHandler(req, res) {
   // `flow` is available in many functional programming libraries. It just
   // takes the output of the first function and plugs it into the second, etc.
   // Note that your favorite lodash-flavored library might do something
-  // different, but the basic semantics are avaialable.
+  // different, but the basic semantics are available.
   _.flow(getThingPublic(id), updateValue, saveThingPublic, res)([req.id]);
 }
 ```
